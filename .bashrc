@@ -175,6 +175,9 @@ alias cp="cp -i"
 set -o noclobber
 
 # 2.2) Listing, directories, and motion
+alias elo="cd ~/javascript/eloquent/"
+alias psoft="cd /media/sda6/projekty_soft/"
+alias seng="cd ~/coursera/sengineering/"
 alias ll="ls -alrtF --color"
 alias la="ls -A"
 alias l="ls -CF"
